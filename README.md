@@ -17,16 +17,14 @@
 
 - Top 3 important features in each classification models
     - **Decision Tree**:
-        Feature 7:     1.0
-        Feature 0:     0.0
-        Feature 16:    0.0
-
+        - Feature 7     1.0
+        - Feature 0     0.0
+        - Feature 16    0.0
     - **Random Forest**:
-        Feature 7:     0.176556
-        Feature 22:    0.144181
-        Feature 27:    0.130188
-
+        - Feature 7     0.176556
+        - Feature 22    0.144181
+        - Feature 27    0.130188
     - **XGBoost**:
-        Feature 7:     0.889295
-        Feature 27:    0.110705
-        Feature 0:     0.000000
+        - Feature 7     0.889295
+        - Feature 27    0.110705
+        - Feature 0     0.000000
